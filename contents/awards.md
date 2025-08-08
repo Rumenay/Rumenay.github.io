@@ -1,16 +1,6 @@
 
-- Outstanding Graduate Award (ZJU), 2025.
-
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- Zhejiang Provincial Outstanding Graduate Award, 2025.
+- Outstanding Postgraduate, ZJU, 2022.
+- Outstanding Graduates, NJUST, 2020.
+- Dean’s Medal, School of Science, NJUST, 2018.
+- National Scholarship, 2018.

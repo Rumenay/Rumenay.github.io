@@ -1,16 +1,11 @@
 #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- Jun Lai and **Jinrui Zhang**, Selective focusing of multiple particles in a layered medium, arXiv:2505.19524, 2025. [Link]([[2505.19524\] Selective focusing of multiple particles in a layered medium](https://arxiv.org/abs/2505.19524))
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **Jinrui Zhang** and Jun Lai, Selective focusing of multiple traction-free elastic particles, Inverse Problems and Imaging, 19(6):1245-1267, 2025. [Link]([Selective focusing of multiple traction-free elastic particles](https://www.aimsciences.org/article/doi/10.3934/ipi.2025014))
+- 赖俊, **张金锐**. 基于 MATLAB 的自适应快速多极算法简易实现 [J]. 计算数学, 2025, 47(1): 1­20.[Link]([BRIEF IMPLEMENTATION OF ADAPTIVE FAST MULTIPOLE METHOD BASED ON MATLAB](https://computmath.cjoe.ac.cn/jssx/EN/10.12286/jssx.j2024-1267)) [Code]([Adaptive_FMM: Adaptive FMM for two and three dimensional scattering problems based on MATLAB.](https://gitee.com/lai123jun/adaptive_fmm/))
+- Gang Bao, Wenmao Hua, Jun Lai, and **Jinrui Zhang**. Singularity swapping method for nearly singular integrals based on trapezoidal rule, SIAM Journal on Numerical Analysis, 62(2):974-997,2024. [Link]([Singularity Swapping Method for Nearly Singular Integrals Based on Trapezoidal Rule | SIAM Journal on Numerical Analysis](https://epubs.siam.org/doi/10.1137/23M1571666))
+- Jun Lai and **Jinrui Zhang**, Fast inverse elastic scattering of multiple particles in three dimensions, Inverse Problem, 38:104002,2022.  [Link]([Fast inverse elastic scattering of multiple particles in three dimensions - IOPscience](https://iopscience.iop.org/article/10.1088/1361-6420/ac8ac7))
 

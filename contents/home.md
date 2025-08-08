@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently *Post-doctoral Fellow* in Department of Mathematics at Hong Kong University of Science and Technology(**HKUST**).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: jinruizhang@ust.hk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., School of Mathematical Sciences, Zhejiang University(**ZJU**), 2020.9—2025.6\
+B.S., Information and Computational Science, Nanjing University of Science and Technology(**NJUST**), 2016.9—2020.6.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Wave scattering and inverse scattering, Fast algorithms for wave equation, Integral equation, Computational super-resolution imaging
 
